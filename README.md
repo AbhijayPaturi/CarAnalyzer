@@ -1,5 +1,5 @@
 # CarAnalyzer
-App that Allows a User to Analyze a Car Dataset through Parallel Computations. Leveraging Apache Hadoop and Spark to execute upon parallel computing.
+App that Allows a User to Analyze a Car Dataset through Parallel Computations. Leveraging Apache Hadoop and Spark to execute upon parallel computing. 
 
 ## Description
 
